@@ -1,0 +1,11 @@
+td {
+    border-style: double solid;
+    border-top-width: thin;
+        border-bottom-width: thin;
+    border-left-width: thin;
+        border-right-width: thin;
+    border-spacing: 1mm;
+}
+b{
+    background-color: aqua
+}
