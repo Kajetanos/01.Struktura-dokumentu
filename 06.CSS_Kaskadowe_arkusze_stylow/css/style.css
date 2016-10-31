@@ -1,0 +1,20 @@
+/*p{background-color: blue}*/
+
+<style>
+#zielony {
+    color: red  
+}
+#fioletowy {
+    color: purple
+}
+#brazowy{
+    color: brown
+}
+.divy{
+    border-style: double solid
+}
+</style>
+/*
+Pierwsza zmiana -background jest w kolorze niebieskim 
+Druga zmiana - Przy użyciu stylu Inlinowo background jest zielony
+*/
