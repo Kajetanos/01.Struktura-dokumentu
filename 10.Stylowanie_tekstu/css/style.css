@@ -1,0 +1,26 @@
+p{color: gray;
+font-size: 14px;      /*wielkość czcionki*/
+    line-height:20px; /*wysokość lini */
+    text-indent:20px; /*akapit*/
+    font-family: Verdana, Arial, sans-serif;
+    margin-right: 600px;
+    width: 40%;
+}
+h1{ font-family: Verdana, Arial, sans-serif;
+    background-color: #ACC4CE;
+    color: white;
+    font-size: 20px;  
+    width: 40%;
+}
+h2{
+    font-family: Verdana, Arial, sans-serif;
+}
+#tekst{
+    line-height: 
+    
+}
+span{
+    color: #395075;
+    letter-spacing: 10px;
+    font-family: Verdana, Arial, sans-serif;
+}
